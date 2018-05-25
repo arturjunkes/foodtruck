@@ -60,7 +60,7 @@ namespace Foodtruck.Grafico
             }
             else
             {
-                MessageBox.Show("Cliente salvo com sucesso");
+                MessageBox.Show("Lanche salvo com sucesso");
             }
 
             this.Close();
